@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3.0!**
 
-- 👨‍💻 All of my projects are available at [ashvin.codes](https://ashvincodes.netlify.app)
+- 👨‍💻 All of my projects are available at [ashvin.codes](https://ashvin.codes)
 
 - 📫 Contact me: **ashvincodes@gmail.com**
 
